@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ikram Javed<br><br>🎓 BSCS Final Year Student<br><br>I am a passionate Frontend Developer with a strong foundation in modern web technologies. I enjoy building clean, responsive, and user-friendly web applications.<br><br>💻 Frontend Skills<br><br>Basic: HTML, CSS, JavaScript<br><br>Advanced: React.js, Tailwind CSS<br><br>🚀 Currently Learning (Backend Development)<br><br>Node.js<br><br>Express.js<br><br>MongoDB (Database)<br><br>Thunder Client (API Testing)<br><br>I am continuously improving my skills and exploring new technologies to become a Full Stack Developer. I love working on practical projects and turning ideas into real-world applications.
+Ikram Javed<br><br>🎓 BSCS graduated<br><br>I am a passionate Frontend Developer with a strong foundation in modern web technologies. I enjoy building clean, responsive, and user-friendly web applications.<br><br>💻 Frontend Skills<br><br>Basic: HTML, CSS, JavaScript<br><br>Advanced: React.js, Tailwind CSS<br><br>🚀 Currently Learning (Backend Development)<br><br>Node.js<br><br>Express.js<br><br>MongoDB (Database)<br><br>Thunder Client (API Testing)<br><br>I am continuously improving my skills and exploring new technologies to become a Full Stack Developer. I love working on practical projects and turning ideas into real-world applications.
 
 
 ## 🌐 Socials:
